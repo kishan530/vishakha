@@ -2,7 +2,28 @@
 <html>
 <head>
 <title>Shri Visakha Industries | Portfolio</title>
-<?php include('comman.php'); ?>
+<?php 
+
+include('admin/config.php');
+
+include('comman.php');
+
+
+ $error = '';
+   $count = 0;    
+      
+      $sql = "SELECT * FROM product";
+      $result = mysqli_query($con,$sql);
+	  $products = array();
+	  while($row = mysqli_fetch_array($result,MYSQLI_ASSOC))
+	 { 
+		$products[] = $row;
+	 }
+      
+      $count = mysqli_num_rows($result);
+
+ ?>
+
 </head>
 
 <body>
@@ -66,15 +87,28 @@
                 
                 <div class="items-container row clearfix">
                 
+				
+				
+				<?php	
+
+
+               if($count>0) {				
+						$i = 0;
+						foreach($products as $product){
+						$i++;
+						//echo var_dump($design);
+						?>
+				
+				
                     <!--Default Portfolio Item-->
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all chemical">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="images/casting-machine-1.jpg" alt="" width="380" height="340"></figure>
+                            <figure class="image-box"><img src="images/<?php echo $product['image']; ?>" alt="" width="380" height="340"></figure>
                             <!--Overlay Box-->
                             <div class="overlay-one">
                                 <div class="overlay-inner">
                                     <div class="content">
-                                        <a href="images/casting-machine-1.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
+                                        <a href="images/casting-machine-5.jpg" class="lightbox-image proj-link" title="<?php echo $product['name']; ?>"><span class="fa fa-search"></span></a>
                                         <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
                                     </div>
                                 </div>
@@ -83,141 +117,14 @@
                         </div>
                     </div>
                     
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all agriculture chemical">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/casting-machine-2.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/casting-machine-2.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all flooring tile-marble furniture lighting">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/casting-machine-3.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/casting-machine-3.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all engineering">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/casting-machine-4.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/casting-machine-4.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all agriculture chemical">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/casting-machine-5.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/casting-machine-5.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all flooring tile-marble furniture lighting">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/casting-machine-6.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/casting-machine-6.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all chemical">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/gallery/1.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/gallery/1.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all engineering">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/gallery/2.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/gallery/2.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Default Portfolio Item-->
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all engineering">
-                        <div class="inner-box">
-                            <figure class="image-box"><img src="images/gallery/3.jpg" alt="" width="380" height="340"></figure>
-                            <!--Overlay Box-->
-                            <div class="overlay-one">
-                                <div class="overlay-inner">
-                                    <div class="content">
-                                        <a href="images/gallery/3.jpg" class="lightbox-image proj-link" title="Image Caption Here"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
+					<?php
+					
+						}
+							
+					  }else {
+						 echo "<span>No product found </span>";
+					  }
+			?>
                     
                     
                 </div>
@@ -243,4 +150,3 @@
 </html> 
    
 
-s
