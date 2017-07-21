@@ -25,11 +25,11 @@
      
    if($_SERVER["REQUEST_METHOD"] == "POST") {
 
-    if (!isset($_POST["product"])) {
+    if (!isset($_POST["name"])) {
                $errors[] = "product is required";
        }
 	
-	  $name = mysqli_real_escape_string($con,$_POST['product']); 
+	  $name = mysqli_real_escape_string($con,$_POST['name']); 
 	  $id = mysqli_real_escape_string($con,$_POST['id']);
 	  $status = $_POST['status'];
 	 $category = $_POST['category'];
@@ -108,7 +108,7 @@
 			?>
 			
             <!-- form start -->
-            <form role="form" action="editartist.php?id=<?php echo $product['id']; ?>" method="POST" enctype="multipart/form-data">
+            <form role="form" action="editproduct.php?id=<?php echo $product['id']; ?>" method="POST" enctype="multipart/form-data">
 			<input type="hidden" name="id" value="<?php echo $product['id']; ?>" >
               <div class="box-body">
 			  
@@ -137,6 +137,7 @@
                   <label for='inputFile'>Image</label>
                   <input type='file' id='inputFile' name='image'> 
 				<p class='help-block'>Supported formats JPEG, JPG and PNG</p>				  
+                </div>
                 </div>
 				</div>					
 				

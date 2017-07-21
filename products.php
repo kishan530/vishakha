@@ -103,12 +103,12 @@ include('comman.php');
                     <!--Default Portfolio Item-->
                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 default-portfolio-item masonry-item all chemical">
                         <div class="inner-box">
-                            <figure class="image-box"><img src="images/<?php echo $product['image']; ?>" alt="" width="380" height="340"></figure>
+                            <figure class="image-box"><img src="images/product/<?php echo $product['image']; ?>" alt="" width="380" height="340"></figure>
                             <!--Overlay Box-->
                             <div class="overlay-one">
                                 <div class="overlay-inner">
                                     <div class="content">
-                                        <a href="images/casting-machine-5.jpg" class="lightbox-image proj-link" title="<?php echo $product['name']; ?>"><span class="fa fa-search"></span></a>
+                                        <a href="images/product/<?php echo $product['image']; ?>" class="lightbox-image proj-link" title="<?php echo $product['name']; ?>"><span class="fa fa-search"></span></a>
                                         <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
                                     </div>
                                 </div>
