@@ -109,7 +109,7 @@ include('comman.php');
                                 <div class="overlay-inner">
                                     <div class="content">
                                         <a href="images/product/<?php echo $product['image']; ?>" class="lightbox-image proj-link" title="<?php echo $product['name']; ?>"><span class="fa fa-search"></span></a>
-                                        <a href="portfolio-details.html" class="proj-link"><span class="fa fa-link"></span></a>
+                                        <a href="product-details.php" class="proj-link"><span class="fa fa-link"></span></a>
                                     </div>
                                 </div>
                             </div>
