@@ -13,7 +13,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/featured-2-bg.jpg);">
         <div class="auto-container">
-            <h1>Project Details</h1>
+            <h1>Product Details</h1>
         </div>
         
         <!--page-info-->
@@ -24,11 +24,12 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <ul class="bread-crumb clearfix">
                             <li><a href="index.html">Home</a></li>
-                            <li class="active">Project Details</li>
+                            <li class="active">Product Details</li>
                         </ul>
                     </div>
                     
                     <div class="col-md-6 col-sm-6 col-xs-12">
+                       <!--
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -36,6 +37,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
+						-->
                     </div>
                 
                 </div>
@@ -84,7 +86,7 @@
                         	</div>
                         </div>
                         
-						<div class="sec-title-eight"><h2>Project Description</h2></div>
+						<div class="sec-title-eight"><h2>Product Description</h2></div>
 
                         <div class="text-block">
                         	<p>The way we all became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopping us the Love Boat soon will be making another run the Love Boat in a promises something for a everyone be from me and the card attached would say federal impossible this time there is no stopping us the Love Boat to soon will be making another run the Love Boat promises became the Brady come and listen to a story about a man barely kept his family never heard to the word able this time there is no stopping us the Love Boat soon will be making another run the Love Boat in a promises something for a everyone be from me and the card attached would say federal impossible this time there is no stopping us the Love Boat to soon will be making another run the Love Boat promises.</p>
@@ -93,7 +95,7 @@
                         <div class="row clearfix">
                         	
                             <div class="col-md-6 col-sm-6 col-xs-12">
-                            	<div class="sec-title-eight"><h2>Project Goal</h2></div>
+                            	<div class="sec-title-eight"><h2>Product Goal</h2></div>
                                 <div class="text">The way we all became the Brady come and listen to a big story about a man barely kept his family never heard to as the word able this time there is no stopng us the Love Boat soon will be making another run the Love Boat in a omises one thing for a card attached.</div>                                
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span> Promises something for everyone</li>
@@ -134,12 +136,10 @@
                             <ul>
                             	<li>Client: <span>Adam Rose</span></li>
                                 <li>Date: <span>July 16, 2016</span></li>
-                                <li>Budget: <span>$40,000</span></li>
-                                <li>Project Duration: <span>4 Months</span></li>
+                                <li>Budget: <span>$40,000</span></li>                              
                                 <li>Team: <span>Alfred, Micheal, Shawn</span></li>
                                 <li>Location: <span>San Francischo</span></li>
                                 <li>Category: <span>Metal Engineering</span></li>
-                                <li>Share at: <span>Facebook,Linkedin  </span></li>
                             </ul>
                             
                         </div>
@@ -148,7 +148,7 @@
 						<div class="call-to-action-four wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms" style="background-image:url(images/resource/quote-widget.jpg);">
                         	<div class="title">Any Questions related Solution? Call us</div>
                             
-                            <div class="number"><span class="flaticon-phone-receiver"></span> +001-345-6789-00</div>
+                            <div class="number"><span class="flaticon-phone-receiver"></span> + 91-98438 07744 <br> + 91-98438 07733</div>
                             <a class="theme-btn btn-style-one" href="#">GET QUOTES</a>
                         </div>
 

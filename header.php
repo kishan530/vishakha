@@ -31,7 +31,7 @@
             	<div class="clearfix">
                 	
                 	<div class="pull-left logo-outer">
-                    	<div class="logo"><a href="index.html"><h2> <img src="images/logo-3.jpg"> Shri Visakha industries</h2></a></div>
+                    	<div class="logo"><a href="index.php"><h2> <img src="images/logo-3.jpg"> Shri Visakha industries</h2></a></div>
                     </div>
                     
                     <div class="pull-right upper-right clearfix">
@@ -114,7 +114,7 @@
         	<div class="auto-container clearfix">
             	<!--Logo-->
             	<div class="logo pull-left">
-                	<a href="index.html" class="img-responsive"><h2><img src="images/logo-3.jpg"> Shri Visakha industries</h2></a>
+                	<a href="index.php" class="img-responsive"><h2><img src="images/logo-3.jpg"> Shri Visakha industries</h2></a>
                 </div>
                 
                 <!--Right Col-->

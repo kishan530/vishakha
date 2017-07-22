@@ -194,7 +194,7 @@
                             	<div class="icon-box">
                                 	<span class="flaticon-atom"></span>
                                 </div>
-                                <h3>Molecular Research</h3>
+                                <h3>On Time Delivery</h3>
                                 <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
                                 
                             </div>
@@ -554,12 +554,14 @@
     </section>
     
     <!--Default Section-->
+	
+	<!--
     <section class="default-section">
     	<div class="auto-container">
             <div class="row clearfix">
             	
-                <!--Text Column-->
-                <div class="column text-column col-md-6 col-sm-12 col-xs-12">
+               
+                <div class="column text-column col-md-12 col-sm-12 col-xs-12">
                 	<div class="inner-box">
                     
                     	<div class="sec-title-one">
@@ -568,30 +570,7 @@
                         
                     	<div class="text">SVI is founded during 1975 by Mr.C.V.Thirugnanam & Mr.V.T.Vijayaraaghavan. Now Mr.C.V.Thirugnanam has retired and the unit managed by Mrs.Indra Vijayaraaghavan-Managing Partner.</div>
                         
-                        <!--featured-gallery-->
-                        <div class="featured-gallery">
-                            <div class="row clearfix">
-                            
-                            	<!--featured-image-box-->
-                                <div class="featured-image-box col-md-12 col-sm-12 col-xs-12">
-                                	<figure class="image">
-                                    	<a class="lightbox-image" href="images/resource/featured-image-1.jpg" title="Image Caption Here"><img src="images/resource/featured-image-1.jpg" alt="" /></a>
-                                    </figure>
-                                </div>
-                                
-                                <!--featured-image-box-->
-                                <div class="featured-image-box col-md-6 col-sm-6 col-xs-12">
-                                	<figure class="image">
-                                    	<a class="lightbox-image" href="images/resource/featured-image-2.jpg" title="Image Caption Here"><img src="images/resource/featured-image-2.jpg" alt="" /></a>
-                                    </figure>
-                                </div>
-                                
-                                <!--featured-image-box-->
-                                <div class="featured-image-box col-md-6 col-sm-6 col-xs-12">
-                                	<figure class="image">
-                                    	<a class="lightbox-image" href="images/resource/featured-image-3.jpg" title="Image Caption Here"><img src="images/resource/featured-image-3.jpg" alt="" /></a>
-                                    </figure>
-                                </div>
+                       
                                 
                             </div>
                         </div>
@@ -600,6 +579,7 @@
                 </div>
                 
                 <!--Accordions Column-->
+				<!--
                 <div class="column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-box">
                     
@@ -607,10 +587,9 @@
                             <h2>Frequently Asked Questions</h2>
                         </div>
                     
-                    	<!--Accordion Box-->
+                    	
                         <ul class="accordion-box">
-                            
-                            <!--Block-->
+                           
                             <li class="accordion block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <div class="acc-btn active"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Why do you license technologies?</div>
                                 <div class="acc-content current">
@@ -621,7 +600,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                          
                             <li class="accordion block wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> Do you license to startup companies?</div>
                                 <div class="acc-content">
@@ -632,7 +611,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                          
                             <li class="accordion block wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> Do you advise or fund companies?</div>
                                 <div class="acc-content">
@@ -643,7 +622,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                           
                            	<li class="accordion block wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> How do we manage and monitor the license agreement?</div>
                                 <div class="acc-content">
@@ -654,7 +633,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                           
                             <li class="accordion block wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> Where can I find more information?</div>
                                 <div class="acc-content">
@@ -665,13 +644,13 @@
                                 </div>
                             </li>
                             
-                        </ul><!--End Accordion Box-->
+                        </ul>
                     </div>
                 </div>
-                
+               
             </div>
         </div>
-    </section>
+    </section> -->
     
     <!--testimonial-section-->
     <section class="testimonial-section">

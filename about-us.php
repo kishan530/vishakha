@@ -29,6 +29,7 @@
                     </div>
                     
                     <div class="col-md-6 col-sm-6 col-xs-12">
+                       <!--
                         <ul class="social-nav clearfix">
                             <li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
                             <li><a href="#"><span class="fa fa-twitter"></span></a></li>
@@ -36,6 +37,7 @@
                             <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
                             <li><a href="#"><span class="fa fa-flickr"></span></a></li>
                         </ul>
+						-->
                     </div>
                 
                 </div>
