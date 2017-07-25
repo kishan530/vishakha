@@ -77,6 +77,7 @@ include('comman.php');
             <div class="sortable-masonry">
             
                 <!--Filter-->
+				<!--
                 <div class="filters clearfix">
                 
                 	<ul class="filter-tabs filter-btns pull-right clearfix">
@@ -86,7 +87,7 @@ include('comman.php');
                         <li class="filter" data-role="button" data-filter=".engineering"><span class="txt">Metal Engineering</span></li>
                     </ul>
                 </div>
-                
+                -->
                 <div class="items-container row clearfix">
                 
 				
