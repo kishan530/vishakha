@@ -25,11 +25,11 @@
      
    if($_SERVER["REQUEST_METHOD"] == "POST") {
 
-    if (!isset($_POST["name"])) {
+    if (!isset($_POST["product"])) {
                $errors[] = "product is required";
        }
 	
-	  $name = mysqli_real_escape_string($con,$_POST['name']); 
+	  $name = mysqli_real_escape_string($con,$_POST['product']); 
 	  $id = mysqli_real_escape_string($con,$_POST['id']);
 	  $status = $_POST['status'];
 	 $category = $_POST['category'];
@@ -118,7 +118,7 @@
 				
 				<div class="form-group">
                   <label for="name">name</label>
-                  <input type="text" class="form-control" id="name" name="name" placeholder="Enter artist Title" value="<?php echo $name; ?>" required >
+                  <input type="text" class="form-control" id="product" name="product" placeholder="Enter product Title" value="<?php echo $name; ?>" required >
                 </div>
 				<div class="form-group">
                   <label for="category">Category</label>

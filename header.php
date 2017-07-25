@@ -55,10 +55,10 @@
                         </div>
                         
                         <!--Info Box-->
-                        <div class="upper-column info-box">
+                      <!--  <div class="upper-column info-box">
                         	<!--<div class="link-btn">
                             	<a href="#" class="theme-btn btn-style-one">get a quote</a>
-                            </div>-->
+                            </div>
                             
                             <div class="icon-box"><span class="flaticon-inbox"></span></div>
                             <ul>
@@ -66,7 +66,7 @@
                                 <li>PDF Brochures</li>
                             </ul>
                             
-                        </div>
+                        </div> -->
                         
                     </div>
                     
@@ -95,8 +95,7 @@
                                 <li class="current" ><a href="index.php">Home</a></li>
                                 <li><a href="about-us.php">About</a></li>
 								<li><a href="products.php">Products</a></li>
-                                <li><a href="services.php">Services</a></li>                               
-                                <li><a href="portfolio.php">Portfolio</a></li>                                
+                                <li><a href="services.php">Services</a></li>                                                               
                                 <li><a href="contact.php">Contact</a></li>
 								
                             </ul>
@@ -135,8 +134,7 @@
                                  <li class="current" ><a href="index.php">Home</a></li>
                                 <li><a href="about-us.php">About</a></li>
 								<li><a href="products.php">Products</a></li>
-                                <li><a href="services.php">Services</a></li>                               
-                                <li><a href="portfolio.php">Portfolio</a></li>                                
+                                <li><a href="services.php">Services</a></li>                                                               
                                 <li><a href="contact.php">Contact</a></li>
 								
                             </ul>

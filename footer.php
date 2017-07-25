@@ -33,12 +33,11 @@
                                 </div>
                                 <div class="footer-widget links-widget">
                                     <ul>
-                                        <li><a href="#">Agriculture Processing</a></li>
-                                        <li><a href="#">Chemical Research</a></li>
-                                        <li><a href="#">Metal Engineering</a></li>
-                                        <li><a href="#">Mechanical Engineering</a></li>
-                                        <li><a href="#">Petroleum & Gas</a></li>
-                                        <li><a href="#">Power & Energy</a></li>
+                                        <li><a href="#">About</a></li>
+                                        <li><a href="#">Products</a></li>
+                                        <li><a href="#">Services</a></li>
+                                        <li><a href="#">Contact</a></li>
+                                        
                                     </ul>
         
                                 </div>
@@ -48,9 +47,9 @@
                     <!--Two 4th column End-->
                     
                     <!--Two 4th column-->
-                    <div class="col-md-6 col-sm-12 col-xs-12">
+                <!--   <div class="col-md-6 col-sm-12 col-xs-12">
                     	<div class="row clearfix">
-                    		<!--Footer Column-->
+                    		<!--Footer Column
                         	<div class="col-lg-6 col-sm-6 col-xs-12 column">
                             	<div class="footer-widget twitter-widget">
                                 	 	<div class="sec-title-three">
@@ -69,7 +68,7 @@
                                 </div>
                             </div>
                             
-                            <!--Footer Column-->
+                            <!--Footer Column
                     		<div class="col-md-6 col-sm-6 col-xs-12 column">
                     			<div class="footer-widget gallery-widget">
                                     <div class="sec-title-three">
@@ -87,7 +86,7 @@
                     		</div>
                     
                     	</div>
-                    </div><!--Two 4th column End-->
+                    </div> -->     <!--Two 4th column End--> 
                     
                 </div>
                 
@@ -100,7 +99,7 @@
             	<div class="row clearfix">
                     <!--Copyright-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="copyright">Copyrights &copy; 2016 Shri Visakha Industries. All Rights Reserved.</div>
+                        <div class="copyright">Copyrights &copy; 2016 Shri Visakha Industries.Powered by <a href="http://thecityshoppers.com/">The CityShoppers</a></div>
                     </div>
                     
                     <div class="col-md-6 col-sm-6 col-xs-12">

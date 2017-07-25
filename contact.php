@@ -50,7 +50,7 @@
     <section class="contact-info-section">
     	<div class="auto-container">
         	<div class="row clearfix">
-            	<div class="column col-md-4 col-sm-6 col-xs-12">
+            	<div class="column col-md-4 col-sm-6 col-xs-12" class="test-size">
                 	<div class="info-box wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<!--icon-box-->
                     	<div class="icon-box">
@@ -137,17 +137,16 @@
     	<div class="map-outer">
 
             <!--Map Canvas-->
-            <div class="map-canvas"
+              <div class="map-canvas"
                 data-zoom="10"
-                data-lat="23.815811"
-                data-lng="90.412580"
+                data-lat="11.007316"
+                data-lng="76.9889475"
                 data-type="roadmap"
                 data-hue="#fc721e"
-                data-title="Dhaka"
-                data-content="Dhaka 1000-1200, Bangladesh<br><a href='mailto:info@youremail.com'>info@youremail.com</a>"
+                data-title="Shri Visakha industries"
+                data-content="324, Puliyakulam Road , Coimbatore  – 641 045<br><a href='mailto:visakaindustries@gmail.com'>visakaindustries@gmail.com</a>"
                 style="height:480px;">
             </div>
-
         </div>
     </section>
     

@@ -72,7 +72,7 @@
                             	<div class="icon-box">
                                 	<span class="flaticon-atom"></span>
                                 </div>
-                                <h3>Molecular Research</h3>
+                                <h3>On Time Delivery</h3>
                                 <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
                                 
                             </div>
@@ -308,13 +308,13 @@
             </div>
         </div>
     </section>
-    
-    <!--default-two-column-->
+     
+    <!--default-two-column
     <section class="default-two-column">
     	<div class="auto-container">
         	<div class="row clearfix">
                 
-            	<!--Accordions Column-->
+            	<!--Accordions Column
                 <div class="column col-md-6 col-sm-12 col-xs-12">
                 	<div class="inner-box">
                     
@@ -322,10 +322,10 @@
                             <h2>Frequently Asked Questions</h2>
                         </div>
                     
-                    	<!--Accordion Box-->
+                    	<!--Accordion Box
                         <ul class="accordion-box">
                             
-                            <!--Block-->
+                            <!--Block
                             <li class="accordion block wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <div class="acc-btn active"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div>Why do you license technologies?</div>
                                 <div class="acc-content current">
@@ -336,7 +336,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                            <!--Block
                             <li class="accordion block wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> Do you license to startup companies?</div>
                                 <div class="acc-content">
@@ -347,7 +347,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                            <!--Block
                             <li class="accordion block wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> Do you advise or fund companies?</div>
                                 <div class="acc-content">
@@ -358,7 +358,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                            <!--Block
                            	<li class="accordion block wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> How do we manage and monitor the license agreement?</div>
                                 <div class="acc-content">
@@ -369,7 +369,7 @@
                                 </div>
                             </li>
                             
-                            <!--Block-->
+                            <!--Block
                             <li class="accordion block wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                                 <div class="acc-btn"><div class="icon-outer"><span class="icon icon-plus fa fa-plus"></span> <span class="icon icon-minus fa fa-minus"></span></div> Where can I find more information?</div>
                                 <div class="acc-content">
@@ -380,7 +380,7 @@
                                 </div>
                             </li>
                             
-                        </ul><!--End Accordion Box-->
+                        </ul><!--End Accordion Box
                     </div>
                 </div>
                 
@@ -390,7 +390,7 @@
                         <h2>Contact Form</h2>
                     </div>
                     
-                    <!--form-box-->
+                    <!--form-box
                 	<div class="form-box default-form style-two">
                     	<div class="contact-form default-form">
                             <form method="post" action="contact.html">
@@ -433,12 +433,12 @@
                     
                 </div>
                 
-                <!--End Accordion Box-->
+                <!--End Accordion Box
                 
                 
             </div>
         </div>
-    </section>
+    </section>  -->
     
   <?php include('footer.php'); ?>
     

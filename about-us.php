@@ -101,7 +101,7 @@
                     	<div class="inner-box">
                             <div class="icon-box"><span class="flaticon-atom"></span></div>
                             
-                            <h3>Molecular Research</h3>
+                            <h3>On Time Delivery</h3>
                             <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
                             
                         </div>
