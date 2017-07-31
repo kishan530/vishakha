@@ -11,6 +11,7 @@
 			
 			 $name = mysqli_real_escape_string($con,$product['name']); 
 			$category = $product['category'];
+			$description = $product['description'];
 			  $status = $product['active'];
 			  $image_path = $product['image'];
 			
@@ -33,6 +34,7 @@
 	  $id = mysqli_real_escape_string($con,$_POST['id']);
 	  $status = $_POST['status'];
 	 $category = $_POST['category'];
+	  $description = $_POST['description'];
 	  $id = mysqli_real_escape_string($con,$_POST['id']);
 	  
 	  
@@ -44,18 +46,23 @@
 		  
 		  $expensions= array("jpeg","jpg","png");
 		  
+		  if(!is_null($design_file_name) && $design_file_name!=''){
 		  if(in_array($file_ext,$expensions)=== false){
 			 $errors[]="extension not allowed, please choose a JPEG or PNG file.";
 		  }
 		  if(count($errors)==0){
 			 move_uploaded_file($file_tmp,"../images/product/".$design_file_name);
 		  }
+		  }else{
+			$design_file_name = $image_path;
+		  }
+		  
 	  
    
      if(count($errors)==0){
-		 	if(is_null($design_file_name))
+		 	if(is_null($design_file_name) || $design_file_name=='')
 			$design_file_name = $image_path;
-		$sql = "Update product set name = '$name', image= '$design_file_name', category = '$category',active = '$status' where id = '$id' ";
+		$sql = "Update product set name = '$name', description = '$description', image= '$design_file_name', category = '$category',active = '$status' where id = '$id' ";
 		//echo $sql;
 		if(mysqli_query($con, $sql)){
 			$message = "product updated successfully.";
@@ -120,6 +127,11 @@
                   <label for="name">name</label>
                   <input type="text" class="form-control" id="product" name="product" placeholder="Enter product Title" value="<?php echo $name; ?>" required >
                 </div>
+				<div class="form-group">
+                  <label for="description">description</label>
+			  
+                <textarea class="textarea" id="description" name="description" placeholder="Place some text here" style="width: 100%; height: 200px; font-size: 14px; line-height: 18px; border: 1px solid #dddddd; padding: 10px;"><?php echo $description; ?></textarea>
+				</div>
 				<div class="form-group">
                   <label for="category">Category</label>
 				  <select id="category" name="category"  class="form-control">

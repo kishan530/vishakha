@@ -111,8 +111,8 @@ include('comman.php');
                             <div class="overlay-one">
                                 <div class="overlay-inner">
                                     <div class="content">
-                                        <a href="images/product/<?php echo $product['image']; ?>" class="lightbox-image proj-link" title="<?php echo $product['name']; ?>"><span class="fa fa-search"></span></a>
-                                        <a href="product-details.php" class="proj-link"><span class="fa fa-link"></span></a>
+										<h3><?php echo $product['name']; ?></h3>
+                                       <P><?php echo $product['description']; ?></p>
                                     </div>
                                 </div>
                             </div>
