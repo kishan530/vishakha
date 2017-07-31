@@ -1,3 +1,15 @@
+ <?php 
+ 
+ $directoryURI = $_SERVER['REQUEST_URI'];
+$path = parse_url($directoryURI, PHP_URL_PATH);
+$components = explode('/', $path);
+$count=count($components);
+$current = $components[$count-1];
+//echo var_dump ($current);
+//exit();
+ 
+ ?>
+ 
  <!-- Preloader -->
     <div class="preloader"><div class="loader"><div class="cssload-container"><div class="cssload-speeding-wheel"></div></div></div></div>
  	
@@ -92,11 +104,11 @@
                         
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                <li class="current" ><a href="index.php">Home</a></li>
-                                <li><a href="about-us.php">About</a></li>
-								<li><a href="products.php">Products</a></li>
-                                <li><a href="services.php">Services</a></li>                                                               
-                                <li><a href="contact.php">Contact</a></li>
+                                <li  class="<?php if ($current=="index.php") {echo "current"; }?>"><a href="index.php">Home</a></li>
+                                <li class="<?php if ($current=='about-us.php') {echo 'current'; } ?>"><a href="about-us.php">About</a></li>
+								<li class="<?php if ($current=='products.php') {echo 'current'; } ?>"><a href="products.php">Products</a></li>
+                                <li class="<?php if ($current=='services.php') {echo 'current'; } ?>"><a href="services.php">Services</a></li>                                                               
+                                <li class="<?php if ($current=='contact.php') {echo 'current'; } ?>"><a href="contact.php">Contact</a></li>
 								
                             </ul>
                         </div>
@@ -131,11 +143,11 @@
                         
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
-                                 <li class="current" ><a href="index.php">Home</a></li>
-                                <li><a href="about-us.php">About</a></li>
-								<li><a href="products.php">Products</a></li>
-                                <li><a href="services.php">Services</a></li>                                                               
-                                <li><a href="contact.php">Contact</a></li>
+                                 <li  class="<?php if ($current=='index.php') {echo 'current'; } ?>"><a href="index.php">Home</a></li>
+                                <li class="<?php if ($current=='about-us.php') {echo 'current'; } ?>"><a href="about-us.php">About</a></li>
+								<li class="<?php if ($current=='products.php') {echo 'current'; } ?>"><a href="products.php">Products</a></li>
+                                <li class="<?php if ($current=='services.php') {echo 'current'; } ?>"><a href="services.php">Services</a></li>                                                               
+                                <li class="<?php if ($current=='contact.php') {echo 'current'; } ?>"> <a href="contact.php">Contact</a></li>
 								
                             </ul>
                         </div>

@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Shri Visakha Industries | Portfolio</title>
+
 <?php 
 
 include('admin/config.php');
