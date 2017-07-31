@@ -57,7 +57,7 @@
                 	<div class="box-column">
                     	<h2>What We Can Offer</h2>
                         <div class="text">The year is and launches the last of americas deep space probes and we will do it our way yes our way make all our dreams.</div>
-                        <a class="more" href="#">VIEW MORE <span class="fa fa-long-arrow-right"></span></a>
+                       
                     </div>
                 </div>
                 
@@ -119,6 +119,211 @@
             </div>
         </div>
     </section>
+	
+	
+	
+	 <!--testimonial-section-->
+    <section class="testimonial-section">
+    	<div class="auto-container">
+        	<div class="row clearfix">
+            <div class="sec-title-one"><h2>Facilities</h2></div>
+                 <div class="col-md-6 col-sm-6 col-xs-12">
+                            	
+                               <h3>Cold chamber Die Casting Machine  – One </h3>
+								
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/casting-machine-1.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-1.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span> 1000 Tonnage Capacity.</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – Polak</li>
+                                    <li><span class="fa fa-check-square-o"></span> Auto ladle will be planned by end of April’16.</li>
+                                   
+                                </ul>                               
+                                
+                            </div>
+                                
+                               
+                                
+                                
+                            </div>
+							<div class="col-md-6 col-sm-6 col-xs-12">
+<h3>Cold chamber Die Casting Machine  – Two </h3>
+                        
+								
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/casting-machine-2.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-2.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span> 900 Tonnage Capacity.</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – UBE</li>
+                                    <li><span class="fa fa-check-square-o"></span> Computerized process controls.</li>
+									 <li><span class="fa fa-check-square-o"></span>Close loop control system</li>
+									  <li><span class="fa fa-check-square-o"></span> Auto Plunger tip lubrication.</li>
+									   <li><span class="fa fa-check-square-o"></span>Auto Ladle for metal pouring</li>
+									    <li><span class="fa fa-check-square-o"></span>Auto sprayer for die coat.</li>
+                                   
+                                </ul>                               
+                                
+                            </div>
+                                
+                                
+                                
+                                
+                            </div>				
+
+
+							
+							 <div class="col-md-6 col-sm-6 col-xs-12">
+                            	
+                               <h3>Cold chamber Die Casting Machine  – three </h3>
+								
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/casting-machine-3.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-3.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span> 300 Tonnage Capacity.</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – Toyo</li>
+                                    <li><span class="fa fa-check-square-o"></span> Computerized process contro.</li>
+									 <li><span class="fa fa-check-square-o"></span> Close loop control system.</li>
+									  <li><span class="fa fa-check-square-o"></span> Auto Plunger tip lubrication.</li>
+									   <li><span class="fa fa-check-square-o"></span> Auto Ladle for metal pouring</li>
+                                   
+                                </ul>                               
+                                
+                            </div>
+                                
+                               
+                                
+                                
+                            </div>
+							
+							
+							 <div class="col-md-6 col-sm-6 col-xs-12">
+                            	
+                               <h3>Cold chamber Die Casting Machine  – Foure </h3>
+								
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/casting-machine-4.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-4.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span> 250 Tonnage Capacity.</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – Buhler</li>
+                                    <li><span class="fa fa-check-square-o"></span> Norstat control systems.</li>
+                                   
+                                </ul>                               
+                                
+                            </div>
+                                
+                               
+                                
+                                
+                            </div>
+							
+							
+							 <div class="col-md-6 col-sm-6 col-xs-12">
+                            	
+                               <h3>Machine Shop</h3>
+								
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/casting-machine-5.jpg" title="Machine Shop"><img src="images/casting-machine-5.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">                                   
+                                    <li><span class="fa fa-check-square-o"></span>Make  - MAKINO</li>
+									<li><span class="fa fa-check-square-o"></span>Model – a61nx</li>
+									<li><span class="fa fa-check-square-o"></span>Make – Polak</li>
+									<li><span class="fa fa-check-square-o"></span>Spindle type – HSK – A63</li>
+									<li><span class="fa fa-check-square-o"></span>Spindle speed – 50 -15000 min-1</li>
+                                    <li><span class="fa fa-check-square-o"></span> Bed size – 500 mm x 500 mm.</li>
+									<li><span class="fa fa-check-square-o"></span>Stroke – X-730mm; Y-730mm, Z- 800mm.
+    B – 360 Degrees</li>
+									<li><span class="fa fa-check-square-o"></span>With Pallet changer</li>
+                                   
+                                </ul>                               
+                                
+                            </div>
+                                
+                               
+                                
+                                
+                            </div>
+							
+							
+							 <div class="col-md-6 col-sm-6 col-xs-12">
+                            	
+                               <h3>Inspection & Testing Facilities</h3>
+								
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/casting-machine-6.jpg" title="Inspection & Testing Facilities"><img src="images/casting-machine-6.jpg" alt=""></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                <h6>Spectrum Analysis - One</h6>
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span>Make  - METAL POWER.</li>
+                                    <li><span class="fa fa-check-square-o"></span>Model – 108 NF</li> 
+                                </ul>
+								<h6>CMM – One </h6>
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span>Make – Mitutoyo</li>
+                                    <li><span class="fa fa-check-square-o"></span>Size – X-500 , Y-700 & Z-400</li> 
+                                </ul>
+								<h6>X-RAY Machine</h6>
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span>In house X-Ray machine will be planned on Oct-17</li>
+                                   
+                                </ul>
+								<h6>UTM – One</h6>
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span>Royal Testing machine – 10T.</li>
+								<h6>Presetter - One</h6>
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span>Zoller </li> 
+                                </ul>								
+                                
+                            </div>
+                                
+                               
+                                
+                                
+                            </div>
+							
+							
+							 
+
+							
+
+                
+            </div>
+        </div>
+    </section>
+	
     
     <!--call-to-action-->
     <section class="call-to-action" style="background-image:url(images/background/call-toaction-one-bg.png);">
@@ -128,7 +333,7 @@
                 	<h3>“ Innovation takes Practice for the Superior Level of Excellence ”</h3>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-12 text-right">
-                	<a class="quote-btn btn-style-three theme-btn" href="#">Get a quote</a>
+                	<a class="quote-btn btn-style-three theme-btn" href="contact.php">Get a quote</a>
                 </div>
             </div>
         </div>
@@ -136,158 +341,65 @@
 	
 	
 	
-	 <!--services-column-two-->
-    <section class="services-column-two">
+	 <!--services-style-three-->
+    <section class="services-style-three">
     	<div class="auto-container">
-        	
-            <!--Section Title-->
-            <div class="sec-title-one">
-			<h2>Our Featured Services</h2>
-                <div class="text">Our facility was approved by “ Polaris” in the year 2015.</div>
-            </div>
-			<div class="row clearfix">
-            	
-                <!--Service block two-->
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/casting-machine-1.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-transport"></span>  Die Casting Machine 1</a>
-                            </div>
-                        	<div class="text">1000 Tonnage Capacity.Auto ladle will be planned by end of April’16.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/casting-machine-2.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-database"></span> Die Casting Machine 1</a>
-                            </div>
-                        	<div class="text">900 Tonnage Capacity.Computerized process controls.Close loop control system.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/casting-machine-3.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="fa  fa-support"></span> Die Casting Machine 1</a>
-                            </div>
-                        	<div class="text">350 Tonnage Capacity.Computerized process controls.Auto Plunger tip lubrication.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/casting-machine-4.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-people"></span> Die Casting Machine 1</a>
-                            </div>
-                        	<div class="text">250 Tonnage Capacity.Norstat control systems.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/casting-machine-5.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-pumpjack-1"></span> Machine Shop  – HMC - One
-</a>
-                            </div>
-                        	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/casting-machine-6.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Inspection & Testing Facilities</a>
-                            </div>
-                        	<div class="text">In house X-Ray machine will be planned on Oct-17. UTM – One. Royal Testing machine – 10T.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-				 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/2017-07-12-PHOTO-00016493.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Machine Shop</a>
-                            </div>
-                        	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-				 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/2017-07-12-PHOTO-00016494.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Machine Shop</a>
-                            </div>
-                        	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-				 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/IMG_2304.JPG" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Die Casting Machine - Toyo 350</a>
-                            </div>
-                        	<div class="text">Fully automatic</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
+        	<div class="row clearfix">
             
-            
+            	<div class="column col-md-3 col-sm-6 col-xs-12">
+                	<div class="service-block-five wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="inner-box">
+                            <div class="icon-box"><span class="flaticon-atom"></span></div>
+                            
+                            <h3>On Time Delivery</h3>
+                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="column col-md-3 col-sm-6 col-xs-12">
+                	<div class="service-block-five wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    	<div class="inner-box">
+                            <div class="icon-box"><span class="flaticon-users"></span></div>
+                            
+                            <h3>Dedicated Team</h3>
+                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="column col-md-3 col-sm-6 col-xs-12">
+                	<div class="service-block-five wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    	<div class="inner-box">
+                            <div class="icon-box"><span class="flaticon-package-cube-box-for-delivery"></span></div>
+                            
+                            <h3>Updated Standards</h3>
+                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="column col-md-3 col-sm-6 col-xs-12">
+                	<div class="service-block-five wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
+                    	<div class="inner-box">
+                            <div class="icon-box"><span class="flaticon-anchor"></span></div>
+                            
+                            <h3>Quality Assurance</h3>
+                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 	
 	
+	
+	 
 	
    
     

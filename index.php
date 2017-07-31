@@ -250,7 +250,7 @@
                 	<h3>“ Innovation takes Practice for the Superior Level of Excellence ”</h3>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-12 text-right">
-                	<a class="quote-btn btn-style-three theme-btn" href="#">Get a quote</a>
+                	<a class="quote-btn btn-style-three theme-btn" href="contact.php">Get a quote</a>
                 </div>
             </div>
         </div>
@@ -271,11 +271,11 @@
                 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/casting-machine-1.jpg" alt="" width="370" height="250"></a></figure>
+                        	<figure class="image"><a href="#"><img src="images/casting-machine-1.jpg" alt="" width="370" height="250"></a></figure>
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-transport"></span>  Die Casting Machine 1</a>
+                        		<a href="#" class="theme-btn service-title"><span class="flaticon-transport"></span>  Die Casting Machine 1</a>
                             </div>
                         	<div class="text">1000 Tonnage Capacity.Auto ladle will be planned by end of April’16.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
@@ -290,7 +290,7 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-database"></span> Die Casting Machine 1</a>
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-database"></span> Die Casting Machine 2</a>
                             </div>
                         	<div class="text">900 Tonnage Capacity.Computerized process controls.Close loop control system.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
@@ -305,7 +305,7 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="fa  fa-support"></span> Die Casting Machine 1</a>
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="fa  fa-support"></span> Die Casting Machine 3</a>
                             </div>
                         	<div class="text">350 Tonnage Capacity.Computerized process controls.Auto Plunger tip lubrication.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
@@ -320,9 +320,24 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-people"></span> Die Casting Machine 1</a>
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-people"></span> Die Casting Machine 4</a>
                             </div>
                         	<div class="text">250 Tonnage Capacity.Norstat control systems.</div>
+                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+				
+				<div class="service-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="services-details.html"><img src="images/IMG_2304.JPG" alt="" width="370" height="250"></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Die Casting Machine - 5</a>
+                            </div>
+                        	<div class="text">Fully automatic</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>
@@ -335,8 +350,37 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-pumpjack-1"></span> Machine Shop  – HMC - One
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-pumpjack-1"></span> Machine Shop 1
 </a>
+                            </div>
+                        	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees.</div>
+                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+				
+			 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="services-details.html"><img src="images/2017-07-12-PHOTO-00016493.jpg" alt="" width="370" height="250"></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Machine Shop 2</a>
+                            </div>
+                        	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees</div>
+                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
+                        </div>
+                    </div>
+                </div>
+				 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="services-details.html"><img src="images/2017-07-12-PHOTO-00016494.jpg" alt="" width="370" height="250"></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Machine Shop 3</a>
                             </div>
                         	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
@@ -358,48 +402,9 @@
                         </div>
                     </div>
                 </div>
-				 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/2017-07-12-PHOTO-00016493.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Machine Shop</a>
-                            </div>
-                        	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-				 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/2017-07-12-PHOTO-00016494.jpg" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Machine Shop</a>
-                            </div>
-                        	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees.</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
-				 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
-                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    	<div class="image-box">
-                        	<figure class="image"><a href="services-details.html"><img src="images/IMG_2304.JPG" alt="" width="370" height="250"></a></figure>
-                        </div>
-                        <div class="lower-content">
-                        	<div class="outer-link">
-                        		<a href="services-details.html" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Die Casting Machine - Toyo 350</a>
-                            </div>
-                        	<div class="text">Fully automatic</div>
-                			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
-                        </div>
-                    </div>
-                </div>
+				
+				
+			
                 
             </div>
             
@@ -443,7 +448,7 @@
                             <div class="overlay-box">
                                 <div class="inner">
                                     <div class="content">
-                                         <h3><a href="#">Die Casting Machine 1</a></h3>
+                                         <h3><a href="#">Die Casting Machine 2</a></h3>
                                         <div class="text">900 Tonnage Capacity.Computerized process controls.Close loop control system.</div>
                                         <a href="portfolio-details.html" class="view-more">View more <span class="fa fa-long-arrow-right"></span></a>
                                     </div>
@@ -462,7 +467,7 @@
                             <div class="overlay-box">
                                 <div class="inner">
                                     <div class="content">
-                                         <h3><a href="#">Die Casting Machine 1</a></h3>
+                                         <h3><a href="#">Die Casting Machine 3</a></h3>
                                         <div class="text">350 Tonnage Capacity.Computerized process controls.Auto Plunger tip lubrication</div>
                                         <a href="portfolio-details.html" class="view-more">View more <span class="fa fa-long-arrow-right"></span></a>
                                     </div>
@@ -481,7 +486,7 @@
                             <div class="overlay-box">
                                 <div class="inner">
                                     <div class="content">
-                                        <h3><a href="#">Die Casting Machine 1</a></h3>
+                                        <h3><a href="#">Die Casting Machine 4</a></h3>
                                         <div class="text">250 Tonnage Capacity.Norstat control systems.</div>
                                         <a href="portfolio-details.html" class="view-more">View more <span class="fa fa-long-arrow-right"></span></a>
                                     </div>
@@ -500,7 +505,7 @@
                             <div class="overlay-box">
                                 <div class="inner">
                                     <div class="content">
-                                        <h3><a href="#">Machine Shop</a></h3>
+                                        <h3><a href="#">Machine Shop 1</a></h3>
                                         <div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees</div>
                                         <a href="portfolio-details.html" class="view-more">View more <span class="fa fa-long-arrow-right"></span></a>
                                     </div>
@@ -519,7 +524,7 @@
                             <div class="overlay-box">
                                 <div class="inner">
                                     <div class="content">
-                                        <h3><a href="#">Machine Shop</a></h3>
+                                        <h3><a href="#">Machine Shop 2</a></h3>
                                         <div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees</div>
                                         <a href="portfolio-details.html" class="view-more">View more <span class="fa fa-long-arrow-right"></span></a>
                                     </div>
@@ -538,7 +543,7 @@
                             <div class="overlay-box">
                                 <div class="inner">
                                     <div class="content">
-                                        <h3><a href="#">Die Casting Machine - Toyo 350</a></h3>
+                                        <h3><a href="#">Die Casting Machine 5</a></h3>
                                         <div class="text">Fully automatic.</div>
                                         <a href="portfolio-details.html" class="view-more">View more <span class="fa fa-long-arrow-right"></span></a>
                                     </div>
@@ -652,95 +657,7 @@
         </div>
     </section> -->
     
-    <!--testimonial-section-->
-    <section class="testimonial-section">
-    	<div class="auto-container">
-        	<div class="row clearfix">
-            	<!--testimonial-column-->
-            	<div class="testimonial-column col-md-8 col-sm-12 col-xs-12">
-                	<div class="sec-title-one">
-                    	<h2>What People Says</h2>
-                    </div>
-                    
-                    <!--Carousel Outer-->
-                    <div class="carousel-outer">
-                        <div class="single-item-carousel">
-        
-                            <!--testimonial box-->
-                            <div class="testimonial-box">
-                                <div class="text"><span class="fa fa-quote-left"></span>The way we all became the Brady Bunch and you know where you were then be to end the mate was a mighty sailing man the skipper brave and sure five passengers set sail that day for a three hour tour a three hour tour why do we always come here the skipper brave and sure five passengers.<span class="fa fa-quote-right"></span></div>
-                                <!--author-info-->
-                                <div class="author-info">
-                                	<figure class="image">
-                                    	<img src="images/resource/author-thumb-1.jpg" alt="" />
-                                    </figure>
-                                    <h3>George Mc Mahon</h3>
-                                    <div class="designation">Co-Founder</div>
-                                    
-                                </div>
-                            </div>
-                            
-                            <div class="testimonial-box">
-                                <div class="text"><span class="fa fa-quote-left"></span>The way we all became the Brady Bunch and you know where you were then be to end the mate was a mighty sailing man the skipper brave and sure five passengers set sail that day for a three hour tour a three hour tour why do we always come here the skipper brave and sure five passengers.<span class="fa fa-quote-right"></span></div>
-                                <div class="author-info">
-                                	<figure class="image">
-                                    	<img src="images/resource/author-thumb-1.jpg" alt="" />
-                                    </figure>
-                                    <h3>George Mc Mahon</h3>
-                                    <div class="designation">Co-Founder</div>
-                                    
-                                </div>
-                            </div>
-                            
-						</div>
-					</div>
-                    
-                </div>
-                
-                <div class="fact-counter-column col-md-4 col-sm-12 col-xs-12">
-                	<div class="fact-counter">
-                <div class="clearfix">
-                
-                    <!--Column-->
-                    <div class="column counter-column wow fadeIn" data-wow-duration="0ms">
-                    	<div class="inner">
-                        	<div class="count-outer">
-                            	<span class="icon-box"><span class="fa fa-star-o"></span></span>
-                            	<span class="count-text" data-speed="1500" data-stop="30">0</span>
-                            </div>
-                            <h4 class="counter-title">Years of Excellence</h4>
-                       	</div>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="column counter-column wow fadeIn" data-wow-duration="0ms">
-                    	<div class="inner">
-                        	<div class="count-outer">
-                            	<span class="icon-box"><span class="flaticon-museum"></span></span>
-                            	<span class="count-text" data-speed="1500" data-stop="53">0</span>
-                            </div>
-                            <h4 class="counter-title">Global Branches</h4>
-                       	</div>
-                    </div>
-                    
-                    <!--Column-->
-                    <div class="column counter-column wow fadeIn" data-wow-duration="0ms">
-                    	<div class="inner">
-                        	<div class="count-outer">
-                            	<span class="icon-box"><span class="flaticon-medal"></span></span>
-                            	<span class="count-text" data-speed="1500" data-stop="48">0</span>
-                            </div>
-                            <h4 class="counter-title">Promoted Awards</h4>
-                       	</div>
-                    </div>
-                    
-                </div>
-            </div>
-                </div>
-                
-            </div>
-        </div>
-    </section>
+   
     
    
    <?php include('footer.php'); ?>

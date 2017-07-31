@@ -2,7 +2,7 @@
 
 <?php
 
-	 $name = $category = $status = ''; 
+	 $name = $category = $status = $description = ''; 
 	
    $errors = array();
    $message = '';
@@ -14,6 +14,7 @@
 	
 	 $name = mysqli_real_escape_string($con,$_POST['product']); 
      $category=$_POST['category'];
+	  $description = $_POST['description'];
 	 
 	 if(isset($_FILES['image'])){
 	  
@@ -38,11 +39,12 @@
 	//mysqli_autocommit($con,FALSE);
 	//$today = date('Y-m-d H:i:s');
 		// Attempt insert query execution
-		$sql = "INSERT INTO product (name ,image, category,active) VALUES ('$name ','$design_file_name','$category','1')";
+		$sql = "INSERT INTO product (name, description, image, category,active) VALUES ('$name','$description','$design_file_name','$category','1')";
 		if(mysqli_query($con, $sql)){
 			$message = "product added successfully.";
 			 $name = '';
 			 $category = ''; 
+			 $description = ''; 
 		} else{
 			 $errors[]= "Could not able to save product " . mysqli_error($con);
 		}
@@ -94,9 +96,14 @@
               <div class="box-body">
 				
 				<div class="form-group">
-                  <label for="name">name</label>
+                  <label for="name">Name</label>
                   <input type="text" class="form-control" id="product" name="product" placeholder="Enter product" value="<?php echo $name; ?>" required >
                 </div>	
+				<div class="form-group">
+                  <label for="description">Description</label>
+			  
+                <textarea class="textarea" id="description" name="description" placeholder="Place some text here" style="width: 100%; height: 200px; font-size: 14px; line-height: 18px; border: 1px solid #dddddd; padding: 10px;"><?php echo $description; ?></textarea>
+            </div>
 				<div class="form-group">
                   <label for="category">Category</label>
 				  <select id="category" name="category"  class="form-control">

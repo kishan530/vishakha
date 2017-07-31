@@ -102,7 +102,7 @@
                         </div>
                     </nav>
                     <!-- Main Menu End-->
-                    <div class="btn-outer"><a href="contact.html" class="theme-btn quote-btn"><span class="fa fa-mail-reply-all"></span> Get a Quote</a></div>
+                    <div class="btn-outer"><a href="contact.php" class="theme-btn quote-btn"><span class="fa fa-mail-reply-all"></span> Get a Quote</a></div>
                 </div>
                 
             </div>
