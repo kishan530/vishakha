@@ -116,16 +116,18 @@
     
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
                             <input type="text" name="subject" value="" placeholder="Subject *">
+							
                         </div>
     
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            <textarea name="message" placeholder="Message *"></textarea>
+                            <textarea name="message" value="" placeholder="Message *"></textarea>
+							
                         </div>
     
                         <div class="form-group col-md-12 col-sm-12 col-xs-12"><button type="submit" class="theme-btn btn-style-three">Send Message</button></div>
 					</div>
                 </form>
-                
+ 
             </div>
             <!--End Contact Form -->
                 
