@@ -81,8 +81,19 @@
 
  ***/
  
- 
-
+ h3.tonnage{
+	 padding-bottom:15px;
+	 padding-top: 8px;
+ }
+.box {
+	
+    height: 400px;
+   width: 582px;
+   position: relative;
+    border: 2px solid gray;
+    padding: 6px;
+    margin: 2px;
+}
 body {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size:16px;
@@ -1951,7 +1962,7 @@ font-size: 20px;
 
 .service-style-one{
 	position:relative;
-	padding:130px 0px 100px;
+	padding:50px 0px 20px;
 }
 
 .service-style-one .box-column{
@@ -4529,7 +4540,7 @@ font-size: 20px;
 
 .services-style-three{
 	position:relative;
-	padding:0px 0px 100px;
+	padding:5px 0px 70px;
 }
 
 .service-block-five{
@@ -5000,7 +5011,7 @@ font-size: 20px;
 ***/
 .testimonial-section{
 	position:relative;
-	padding:130px 0px;
+	padding:90px 0px;
 	background-color:#fafafa;
 }
 
@@ -5123,7 +5134,7 @@ font-size: 20px;
 
 .news-section{
 	position:relative;
-	padding:130px 0px;
+	padding:25px 0px;
 }
 
 .news-style-two{
@@ -5142,6 +5153,7 @@ font-size: 20px;
 .news-style-two .inner-box .image img{
 	position:relative;
 	width:100%;
+	height: 300px;
 	display:block;
 }
 
@@ -5530,7 +5542,7 @@ font-size: 20px;
 	position:relative;
 	color:#103d68;
 	font-size:16px;
-	margin-bottom:6px;
+	margin-bottom:1px;
 	padding-left:22px;
 	font-weight:300;
 	font-family: 'Roboto', sans-serif;

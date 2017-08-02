@@ -178,7 +178,7 @@
                 	<!--box-column-->
                 	<div class="box-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<h2>What We Can Offer</h2>
-                        <div class="text">The year is and launches the last of americas deep space probes and we will do it our way yes our way make all our dreams.</div>
+                        <div class="text">Visakha industries is a package of all factors necessary for a international standard facility and its experience in the field makes it one of the top players in the market .</div>
                         <a class="more" href="services.php">VIEW MORE <span class="fa fa-long-arrow-right"></span></a>
                     </div>
                 </div>
@@ -195,7 +195,7 @@
                                 	<span class="flaticon-atom"></span>
                                 </div>
                                 <h3>On Time Delivery</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">Visakha Industries is known for maintaining its deadlines form decades and this makes it successful company in the market .</div>
                                 
                             </div>
                         </div>
@@ -207,7 +207,7 @@
                                 	<span class="flaticon-users"></span>
                                 </div>
                                 <h3>Dedicated Team</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">The core management of the company is a team of experienced professionals for decades in the same field and they are second to none.</div>
                                 
                             </div>
                         </div>
@@ -219,7 +219,7 @@
                                 	<span class="flaticon-package-cube-box-for-delivery"></span>
                                 </div>
                                 <h3>Updated Standards</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">The company keeps itself updated when it comes to machinery and has state of the art equipment which they use to provide the best quality to customers.</div>
                                 
                             </div>
                         </div>
@@ -231,7 +231,7 @@
                                 	<span class="flaticon-anchor"></span>
                                 </div>
                                 <h3>Quality Assurance</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div>
                                 
                             </div>
                         </div>

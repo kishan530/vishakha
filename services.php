@@ -56,7 +56,7 @@
                 	<!--box-column-->
                 	<div class="box-column">
                     	<h2>What We Can Offer</h2>
-                        <div class="text">The year is and launches the last of americas deep space probes and we will do it our way yes our way make all our dreams.</div>
+                        <div class="text">Visakha industries is a package of all factors necessary for a international standard facility and its experience in the field makes it one of the top players in the market .</div>
                        
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                                 	<span class="flaticon-atom"></span>
                                 </div>
                                 <h3>On Time Delivery</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">Visakha Industries is known for maintaining its deadlines form decades and this makes it successful company in the market .</div>
                                 
                             </div>
                         </div>
@@ -85,7 +85,7 @@
                                 	<span class="flaticon-users"></span>
                                 </div>
                                 <h3>Dedicated Team</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">The core management of the company is a team of experienced professionals for decades in the same field and they are second to none.</div>
                                 
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                                 	<span class="flaticon-package-cube-box-for-delivery"></span>
                                 </div>
                                 <h3>Updated Standards</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">The company keeps itself updated when it comes to machinery and has state of the art equipment which they use to provide the best quality to customers.</div>
                                 
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                                 	<span class="flaticon-anchor"></span>
                                 </div>
                                 <h3>Quality Assurance</h3>
-                                <div class="text">The year is and launches the last of that americas deep space probes and we will do it our our way make all come true.</div>
+                                <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality..</div>
                                 
                             </div>
                         </div>
@@ -119,7 +119,78 @@
             </div>
         </div>
     </section>
-	
+	 <!--news-section-->
+    <section class="news-section">
+     <div class="auto-container">
+        
+         <div class="sec-title-four">
+             <h2>Latest Posts</h2>
+                <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div>
+            </div>
+        
+         <div class="row clearfix">
+		   <div class="news-style-two col-md-4 col-sm-6 col-xs-12">
+                 <div class="inner-box">
+                     <figure class="image">
+                         <a href="#"><img src="images/Photo-From-Orlick-Ad.jpg" alt="" /></a>
+                        </figure>
+                        
+                        <!--lower-content-->
+                        <div class="lower-content">
+                         <h3><a href="#">Die Casting</a></h3>
+                            
+                            <!--post-meta-->
+                           
+                            
+                            <div class="text">Die casting is a metal casting process that is characterized by forcing molten metal under high pressure into a mold cavity</div>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+            
+             <div class="news-style-two col-md-4 col-sm-6 col-xs-12">
+                 <div class="inner-box">
+                     <figure class="image">
+                         <a href="#"><img src="images/machining.jpg" alt="" /></a>   
+                        </figure>
+                        
+                        <!--lower-content-->
+                        <div class="lower-content">
+                         <h3><a href="blog-details.html">Machining</a></h3>
+                            
+                            <!--post-meta-->
+                            <div class="text">Machining is a part of the manufacture of many metal products, but it can also be used on materials such as wood, plastic, ceramic, and composites</div>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="news-style-two col-md-4 col-sm-6 col-xs-12">
+                 <div class="inner-box">
+                     <figure class="image">
+                         <a href="#"><img src="images/metal-shot-blassting-staffordshire.jpg" alt="" /></a>
+                              
+                        </figure>
+                        
+                        <!--lower-content-->
+                        <div class="lower-content">
+                         <h3><a href="#">Shot Blasting </a></h3>
+                            
+                            <!--post-meta-->
+                            
+                            
+                            <div class="text">Shotblasting is a method used to clean, strengthen (peen) or polish metal.</div>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </section>
 	
 	
 	 <!--testimonial-section-->
@@ -128,9 +199,8 @@
         	<div class="row clearfix">
             <div class="sec-title-one"><h2>Facilities</h2></div>
                  <div class="col-md-6 col-sm-6 col-xs-12">
-                            	
-                               <h3>Cold chamber Die Casting Machine  – One </h3>
-								
+                            	<div class="box">
+                               <h3 class="tonnage">Cold chamber Die Casting Machine  – One </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
                                             <a class="lightbox-image" href="images/casting-machine-1.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-1.jpg" alt="" width="370" height="250"></a>
@@ -147,22 +217,20 @@
                                 </ul>                               
                                 
                             </div>
-                                
+                             </div>   
                                
                                 
                                 
                             </div>
 							<div class="col-md-6 col-sm-6 col-xs-12">
-<h3>Cold chamber Die Casting Machine  – Two </h3>
-                        
-								
+							<div class="box">
+                             <h3 class="tonnage">Cold chamber Die Casting Machine  – Two </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
                                             <a class="lightbox-image" href="images/casting-machine-2.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-2.jpg" alt="" width="370" height="250"></a>
                                         </figure>
-                                    </div>
-									<div class="col-md-6 col-sm-6 col-xs-12">
-                                
+                                </div>
+							  <div class="col-md-6 col-sm-6 col-xs-12">
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span> 900 Tonnage Capacity.</li>
                                     <li><span class="fa fa-check-square-o"></span>Make – UBE</li>
@@ -174,26 +242,19 @@
                                    
                                 </ul>                               
                                 
+                              </div>  
+							  </div> 
                             </div>
-                                
-                                
-                                
-                                
-                            </div>				
-
-
-							
 							 <div class="col-md-6 col-sm-6 col-xs-12">
-                            	
-                               <h3>Cold chamber Die Casting Machine  – three </h3>
-								
+							 <div class="box">
+                               <h3 class="tonnage">Cold chamber Die Casting Machine  – three </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
                                             <a class="lightbox-image" href="images/casting-machine-3.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-3.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
-							<div class="col-md-6 col-sm-6 col-xs-12">
+							  <div class="col-md-6 col-sm-6 col-xs-12">
                                 
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span> 300 Tonnage Capacity.</li>
@@ -204,19 +265,12 @@
 									   <li><span class="fa fa-check-square-o"></span> Auto Ladle for metal pouring</li>
                                    
                                 </ul>                               
-                                
+                                </div>
+                              </div>   
                             </div>
-                                
-                               
-                                
-                                
-                            </div>
-							
-							
 							 <div class="col-md-6 col-sm-6 col-xs-12">
-                            	
-                               <h3>Cold chamber Die Casting Machine  – Foure </h3>
-								
+							 <div class="box">
+                               <h3 class="tonnage">Cold chamber Die Casting Machine  – Foure </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
                                             <a class="lightbox-image" href="images/casting-machine-4.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-4.jpg" alt="" width="370" height="250"></a>
@@ -231,19 +285,12 @@
                                     <li><span class="fa fa-check-square-o"></span> Norstat control systems.</li>
                                    
                                 </ul>                               
-                                
+                               </div> 
                             </div>
-                                
-                               
-                                
-                                
                             </div>
-							
-							
 							 <div class="col-md-6 col-sm-6 col-xs-12">
-                            	
-                               <h3>Machine Shop</h3>
-								
+							 <div class="box">
+                               <h3 class="tonnage">Machine Shop</h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
                                             <a class="lightbox-image" href="images/casting-machine-5.jpg" title="Machine Shop"><img src="images/casting-machine-5.jpg" alt="" width="370" height="250"></a>
@@ -259,31 +306,23 @@
 									<li><span class="fa fa-check-square-o"></span>Spindle type – HSK – A63</li>
 									<li><span class="fa fa-check-square-o"></span>Spindle speed – 50 -15000 min-1</li>
                                     <li><span class="fa fa-check-square-o"></span> Bed size – 500 mm x 500 mm.</li>
-									<li><span class="fa fa-check-square-o"></span>Stroke – X-730mm; Y-730mm, Z- 800mm.
-    B – 360 Degrees</li>
+									<li><span class="fa fa-check-square-o"></span>Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees</li>
 									<li><span class="fa fa-check-square-o"></span>With Pallet changer</li>
                                    
                                 </ul>                               
-                                
+                             </div>   
+                            </div>   
                             </div>
-                                
-                               
-                                
-                                
-                            </div>
-							
-							
 							 <div class="col-md-6 col-sm-6 col-xs-12">
-                            	
-                               <h3>Inspection & Testing Facilities</h3>
-								
+							    <div class="box">
+                               <h3 class="tonnage">Inspection & Testing Facilities</h3>	
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
                                             <a class="lightbox-image" href="images/casting-machine-6.jpg" title="Inspection & Testing Facilities"><img src="images/casting-machine-6.jpg" alt=""></a>
                                         </figure>
                                     </div>
 									
-							<div class="col-md-6 col-sm-6 col-xs-12">
+							<div class="col-md-6 col-sm-6 col-xs-6">
                                 <h6>Spectrum Analysis - One</h6>
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span>Make  - METAL POWER.</li>
@@ -294,32 +333,25 @@
                                     <li><span class="fa fa-check-square-o"></span>Make – Mitutoyo</li>
                                     <li><span class="fa fa-check-square-o"></span>Size – X-500 , Y-700 & Z-400</li> 
                                 </ul>
+								</div>	
+                                <div class="col-md-6 col-sm-6 col-xs-6">
 								<h6>X-RAY Machine</h6>
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span>In house X-Ray machine will be planned on Oct-17</li>
-                                   
+								
                                 </ul>
+								</div>
+								<div class="col-md-6 col-sm-6 col-xs-6">
 								<h6>UTM – One</h6>
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span>Royal Testing machine – 10T.</li>
 								<h6>Presetter - One</h6>
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span>Zoller </li> 
-                                </ul>								
-                                
+                                </ul>
+								</div>
                             </div>
-                                
-                               
-                                
-                                
                             </div>
-							
-							
-							 
-
-							
-
-                
             </div>
         </div>
     </section>
@@ -352,7 +384,7 @@
                             <div class="icon-box"><span class="flaticon-atom"></span></div>
                             
                             <h3>On Time Delivery</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <div class="text">Visakha Industries is known for maintaining its deadlines form decades and this makes it successful company in the market .</div>
                             
                         </div>
                     </div>
@@ -364,7 +396,7 @@
                             <div class="icon-box"><span class="flaticon-users"></span></div>
                             
                             <h3>Dedicated Team</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <div class="text">The core management of the company is a team of experienced professionals for decades in the same field and they are second to none.</div>
                             
                         </div>
                     </div>
@@ -376,7 +408,7 @@
                             <div class="icon-box"><span class="flaticon-package-cube-box-for-delivery"></span></div>
                             
                             <h3>Updated Standards</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <div class="text">The company keeps itself updated when it comes to machinery and has state of the art equipment which they use to provide the best quality to customers.</div>
                             
                         </div>
                     </div>
@@ -388,9 +420,9 @@
                             <div class="icon-box"><span class="flaticon-anchor"></span></div>
                             
                             <h3>Quality Assurance</h3>
-                            <div class="text">The year is and launches the last of that americas deep space probes and we come true.</div>
+                            <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div>
                             
-                        </div>
+                        </div>.
                     </div>
                 </div>
             </div>
