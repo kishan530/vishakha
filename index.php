@@ -61,7 +61,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">VIEW SOLUTIONS</a> &ensp;&ensp; <a href="#" class="theme-btn btn-style-two">CONTACT US</a></div>
+                    data-endeasing="Power4.easeIn"><a href="services.php" class="theme-btn btn-style-one">VIEW SOLUTIONS</a> &ensp;&ensp; <a href="contact.php" class="theme-btn btn-style-two">CONTACT US</a></div>
                     
                     
                     </li>
@@ -109,7 +109,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">contact us</a></div>
+                    data-endeasing="Power4.easeIn"><a href="contact.php" class="theme-btn btn-style-one">contact us</a></div>
                     
                     </li>
                     
@@ -143,7 +143,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><h2>We are the Top Industrial Manufacturer providing<br> the highest quality products</h2></div>
+                    data-endeasing="Power4.easeIn"><h2>We are one of the Top Industrial Manufacturer providing<br> the highest quality products</h2></div>
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="center" data-hoffset="0"
@@ -156,7 +156,7 @@
                     data-elementdelay="0.01"
                     data-endelementdelay="0.3"
                     data-endspeed="1200"
-                    data-endeasing="Power4.easeIn"><a href="#" class="theme-btn btn-style-one">contact us</a></div>
+                    data-endeasing="Power4.easeIn"><a href="contact.php" class="theme-btn btn-style-one">contact us</a></div>
                     
                     
                     </li>
@@ -179,7 +179,7 @@
                 	<div class="box-column wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<h2>What We Can Offer</h2>
                         <div class="text">The year is and launches the last of americas deep space probes and we will do it our way yes our way make all our dreams.</div>
-                        <a class="more" href="services-details.html">VIEW MORE <span class="fa fa-long-arrow-right"></span></a>
+                        <a class="more" href="services.php">VIEW MORE <span class="fa fa-long-arrow-right"></span></a>
                     </div>
                 </div>
                 
@@ -277,7 +277,7 @@
                         	<div class="outer-link">
                         		<a href="#" class="theme-btn service-title"><span class="flaticon-transport"></span>  Die Casting Machine 1</a>
                             </div>
-                        	<div class="text">1000 Tonnage Capacity.Auto ladle will be planned by end of April’16.</div>
+                        	<div class="text">1000 Tonnage Capacity.Auto ladle will be planned by end of April’18.</div>
                 			<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>
                         </div>
                     </div>

@@ -50,7 +50,7 @@
     <section class="contact-info-section">
     	<div class="auto-container">
         	<div class="row clearfix">
-            	<div class="column col-md-4 col-sm-6 col-xs-12" class="test-size">
+            	<div class="column col-md-4 col-sm-6 col-xs-12">
                 	<div class="info-box wow zoomInStable" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<!--icon-box-->
                     	<div class="icon-box">
