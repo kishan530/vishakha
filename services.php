@@ -124,8 +124,7 @@
      <div class="auto-container">
         
          <div class="sec-title-four">
-             <h2>Latest Posts</h2>
-                <div class="text">The year is and launches the last of americas deep space probes and we dreams.</div>
+             <h2>Services</h2>
             </div>
         
          <div class="row clearfix">
@@ -197,7 +196,7 @@
     <section class="testimonial-section">
     	<div class="auto-container">
         	<div class="row clearfix">
-            <div class="sec-title-one"><h2>Facilities</h2></div>
+            <div class="sec-title-four"><h2>Facilities</h2></div>
                  <div class="col-md-6 col-sm-6 col-xs-12">
                             	<div class="box">
                                <h3 class="tonnage">Cold chamber Die Casting Machine  – One </h3>

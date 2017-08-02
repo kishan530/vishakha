@@ -51,15 +51,9 @@
     	<div class="auto-container">
         	<div class="row clearfix">
             	<div class="column left-column col-md-6 col-sm-12 col-xs-12">
-                	<!--video-box-->
-                	<div class="video-box">
-                    	<figure class="image">
+                	<figure class="image">
                         	<img src="images/resource/video-image-1.jpg" alt="" />
                         </figure>
-                        <a href="https://www.youtube.com/watch?v=0e1uTwSRGgI" class="lightbox-image overlay-box">
-                        	<span class="flaticon-arrows-2"></span>
-                        </a>
-                    </div>
                 </div>
                 <div class="column col-md-6 col-sm-12 col-xs-12">
                 	<!--content-column-->
