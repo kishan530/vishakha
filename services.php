@@ -353,7 +353,7 @@
                                <h3 class="tonnage">Makino A61 nx- HMC </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/Makino A61 nx- HMC.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino A61 nx- HMC.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image" href="images/casting-machine-7.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-7.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
@@ -374,7 +374,7 @@
                                <h3 class="tonnage">Makino A51 nx- HMC </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/Makino A51 nx- HMC.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino A51 nx- HMC.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image" href="images/casting-machine-8.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-8.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
@@ -395,7 +395,7 @@
                                <h3 class="tonnage">Makino Slim 3 - VMC  </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/Makino Slim 3 - VMC 1.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino Slim 3 - VMC 1.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image" href="images/casting-machine-9.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-9.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
@@ -417,7 +417,7 @@
                                <h3 class="tonnage">Makino Slim 3 - VMC</h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/Makino Slim 3 - VMC 2.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino Slim 3 - VMC 2.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image" href="images/casting-machine-10.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-10.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
