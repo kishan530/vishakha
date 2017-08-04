@@ -1969,7 +1969,7 @@ font-size: 20px;
 
 .service-style-one .box-column{
 	position:relative;
-	padding:35px;
+	padding:40px;
 	border:4px solid #fde428;
 	margin-bottom:30px;
 }
@@ -4552,6 +4552,7 @@ font-size: 20px;
 
 .service-block-five .inner-box{
 	position:relative;
+	height:340px;
 	padding:45px 18px;
 	text-align:center;
 	border:2px solid #f0f0f0;
@@ -4564,6 +4565,7 @@ font-size: 20px;
 
 .service-block-five .inner-box:hover{
 	border-color:#fde428;
+	
 }
 
 .service-block-five .inner-box .icon-box{

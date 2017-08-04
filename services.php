@@ -211,15 +211,12 @@
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span> 1000 Tonnage Capacity.</li>
                                     <li><span class="fa fa-check-square-o"></span>Make – Polak</li>
-                                    <li><span class="fa fa-check-square-o"></span> Auto ladle will be planned by end of April’16.</li>
+                                    <li><span class="fa fa-check-square-o"></span> Auto ladle will be planned by end of April’18.</li>
                                    
                                 </ul>                               
                                 
                             </div>
-                             </div>   
-                               
-                                
-                                
+                             </div>      
                             </div>
 							<div class="col-md-6 col-sm-6 col-xs-12">
 							<div class="box">
@@ -351,6 +348,94 @@
 								</div>
                             </div>
                             </div>
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                            	<div class="box">
+                               <h3 class="tonnage">Makino A61 nx- HMC </h3>
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/Makino A61 nx- HMC.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino A61 nx- HMC.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span> Model-A61 NX</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – Makino</li>
+                                    <li><span class="fa fa-check-square-o"></span> Spindle RPM-14,000 rpm (14K High Torque, 20K)</li>
+                                   <li><span class="fa fa-check-square-o"></span>ATC Capacity-60 tools (optional 40, 134, 219, 313)</li>
+                                </ul>                               
+                                
+                            </div>
+                             </div>      
+                            </div>
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                            	<div class="box">
+                               <h3 class="tonnage">Makino A51 nx- HMC </h3>
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/Makino A51 nx- HMC.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino A51 nx- HMC.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                              
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span> Model-A51 NX</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – Makino</li>
+                                    <li><span class="fa fa-check-square-o"></span>Spindle Speed-10,000 RPM  </li>
+                                      <li><span class="fa fa-check-square-o"></span> ATC Capacity-60 Mac</li>                                  
+                                </ul>                               
+                                
+                            </div>
+                             </div>      
+                            </div>
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                            	<div class="box">
+                               <h3 class="tonnage">Makino Slim 3 - VMC  </h3>
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/Makino Slim 3 - VMC 1.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino Slim 3 - VMC 1.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+								    <li><span class="fa fa-check-square-o"></span>Make – Makino</li>
+                                    <li><span class="fa fa-check-square-o"></span>Spindle (min 1)- Standard	15000</li>
+                                    <li><span class="fa fa-check-square-o"></span>product Name-Slim 3</li>
+                                    <li><span class="fa fa-check-square-o"></span> Type-Vertical MC</li>
+                                   
+                                </ul>                               
+                                
+                            </div>
+                             </div>      
+                            </div>
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                            	<div class="box">
+                               <h3 class="tonnage">Makino Slim 3 - VMC</h3>
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/Makino Slim 3 - VMC 2.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino Slim 3 - VMC 2.jpg" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+								    <li><span class="fa fa-check-square-o"></span>Make – Makino</li>
+                                    <li><span class="fa fa-check-square-o"></span> product Name-Slim 3</li>
+                                    <li><span class="fa fa-check-square-o"></span>Type-Vertical MC</li>
+                                    <li><span class="fa fa-check-square-o"></span> ATC Capacity-30</li>
+                                   
+                                </ul>                               
+                                
+                            </div>
+                             </div>      
+                            </div>
+							
+							
             </div>
         </div>
     </section>
