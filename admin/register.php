@@ -1,4 +1,46 @@
 <?php
+include("config.php");
+	 $myusername = $email =  $mypassword= $mobile= ''; 
+	
+   $errors = array();
+   $message = '';
+   if($_SERVER["REQUEST_METHOD"] == "POST") {
+	  $myusername = mysqli_real_escape_string($con,$_POST['username']);
+      $mypassword = mysqli_real_escape_string($con,$_POST['password']);
+       $email = mysqli_real_escape_string($con,$_POST['email']);
+	  	  
+	   $mobile = mysqli_real_escape_string($con,$_POST['mobile']); 
+	   $active = $row['active'];
+	  $isAdmin =(bool) 1;
+      $sql = "INSERT INTO user (username , email,password, mobile, active) VALUES ('$myusername ','$email ','$mypassword', '$mobile','1')";
+      //$sql = "SELECT * FROM users WHERE username = '$myusername' email='$email' and password = '$mypassword' and active =1";
+      $result = mysqli_query($con,$sql);
+	 
+	 
+     if(count($errors)==0){
+	//mysqli_autocommit($con,FALSE);
+	//$today = date('Y-m-d H:i:s');
+		// Attempt insert query execution
+		$sql = "INSERT INTO user (username , email,password,name, mobile, active) VALUES ('$myusername ','$email ','$mypassword', '$name', '$mobile','1')";
+		if(mysqli_query($con, $sql)){
+			$message = " added successfully.";
+			  
+		} else{
+			 $errors[]= "Could not able to save Albums " . mysqli_error($con);
+		}
+	  }
+	  
+	  if(count($errors)>0){
+		//echo var_dump($errors);
+		//exit();
+	  }
+   }
+?>
+
+
+
+
+<!-- <?php
    include("config.php");
    session_start();
    if (isset($_SESSION['user'])) {
@@ -9,36 +51,32 @@
 		}
    }
    $error = '';
-   $count=0;
    if($_SERVER["REQUEST_METHOD"] == "POST") {
       // username and password sent from form 
       $myusername = mysqli_real_escape_string($con,$_POST['username']);
+	  $email = mysqli_real_escape_string($con,$_POST['email']);
       $mypassword = mysqli_real_escape_string($con,$_POST['password']); 
-      
-      $sql = "SELECT * FROM user WHERE username = '$myusername' and password = '$mypassword' and active =1";
+	   $mobile = mysqli_real_escape_string($con,$_POST['mobile']); 
+      $sql = "INSERT INTO user (username , email,password, mobile, active) VALUES ('$myusername ','$email ','$mypassword', '$mobile','1')";
+      //$sql = "SELECT * FROM users WHERE username = '$myusername' email='$email' and password = '$mypassword' and active =1";
       $result = mysqli_query($con,$sql);
       $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
-	 // echo ($myusername);
-	//  echo ($mypassword);
-	  
-	  if ($row!=null)
-	  {
-		 echo ( $sql); 
-	//	  echo var_dump( $row);
-	//  exit();
+	 
       $active = $row['active'];
 	  $isAdmin =(bool) 1;
-	  $count = 1;
-      }
+      
      // $count = mysqli_num_rows($result);
 	
-	 
+	 $count = 1;
       
       // If result matched $myusername and $mypassword, table row must be 1 row
 		
       if($count == 1) {
 		 $_SESSION['user']['id'] = $row['id'];
          $_SESSION['user']['name'] = $myusername;
+		 $_SESSION['user']['email'] = $email;
+		 $_SESSION['user']['password'] = $password;
+		 $_SESSION['user']['mobile'] = $mobile;
 		 $_SESSION['user']['is_admin'] = $isAdmin;
          if($isAdmin)
          header("location: admin.php");
@@ -46,7 +84,7 @@
          $error = "Your Login Name or Password is invalid";
       }
    }
-?>
+?> -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -76,41 +114,53 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="#"><b>Login</b></a>
+    <a href="#"><b>New Register</b></a>
   </div>
-  <!-- /.login-logo -->
-  <div class="login-box-body">
-    <p class="login-box-msg">Sign in to start your session</p>
+
+ <div class="login-box-body">
+    <p class="login-box-msg">Register a new membership</p>
  <div style = "font-size:11px; color:#cc0000; margin-top:10px"><?php echo $error; ?></div>
-    <form action="index.php" method="POST">
+ <form action="register.php" method="POST">
       <div class="form-group has-feedback">
-        <input type="username" name="username" class="form-control" placeholder="Username">
+        <input type="username" name="username" class="form-control" placeholder="enter Username">
         <span class="glyphicon glyphicon-user form-control-feedback"></span>
       </div>
+	  <div class="form-group has-feedback">
+        <input type="mobile" name="mobile" class="form-control" placeholder="enter mobile">
+        <span class="glyphicon glyphicon-phone form-control-feedback"></span>
+      </div>
+	  <div class="form-group has-feedback">
+        <input type="email" name="email" class="form-control" placeholder="enter ur email">
+        <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+      </div>
       <div class="form-group has-feedback">
-        <input type="password" name="password" class="form-control" placeholder="Password">
+        <input type="password" name="password" class="form-control" placeholder=" enter ur Password">
         <span class="glyphicon glyphicon-lock form-control-feedback"></span>
       </div>
+	  <div class="form-group has-feedback">
+        <input type="password" name="confrim-password" class="form-control" placeholder=" Reenter Password">
+        <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+      </div>
+	  
       <div class="row">
         <div class="col-xs-8">
-
-        </div>
+         <div class="checkbox icheck">
+            <label>
+              <input type="checkbox"> I agree to the <a href="#">terms</a>
+            </label>
+          </div>
+        
+		</div>
         <!-- /.col -->
         <div class="col-xs-4">
-          <input type="submit" class="btn btn-primary btn-block btn-flat" value="Sign In" />
+          <button type="submit" class="btn btn-primary btn-block btn-flat" value="" />Register</button>
         </div>
         <!-- /.col -->
       </div>
     </form>
-
-   <a href="register.php" class="text-center">Register a new membership</a>
-
-  </div>
-  <!-- /.login-box-body -->
 </div>
-<!-- /.login-box -->
+</div>
 
-<!-- jQuery 2.2.3 -->
 <script src="plugins/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
 <script src="bootstrap/js/bootstrap.min.js"></script>
@@ -127,3 +177,4 @@
 </script>
 </body>
 </html>
+
