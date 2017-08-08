@@ -71,7 +71,7 @@ include('comman.php');
     	<div class="auto-container">
 
             <div class="sec-title-four">
-                <h2>Our Products</h2>
+                <h2>Few of Our Products</h2>
             </div>
                     
            	<!--Sortable Masonry-->
