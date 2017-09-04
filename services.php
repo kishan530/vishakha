@@ -159,7 +159,7 @@
                          <h3><a href="blog-details.html">Machining</a></h3>
                             
                             <!--post-meta-->
-                            <div class="text">Machining is a part of the manufacture of many metal products, but it can also be used on materials such as wood, plastic, ceramic, and composites</div>
+                            <div class="text">Machining is a processes in which a piece of raw material is cut into a desired final shape and size by a controlled material-removal process. Advanced equipments and machinery are used to achieve perfection</div>
                             
                         </div>
                         
@@ -266,7 +266,7 @@
                             </div>
 							 <div class="col-md-6 col-sm-6 col-xs-12">
 							 <div class="box">
-                               <h3 class="tonnage">Cold chamber Die Casting Machine  – Foure </h3>
+                               <h3 class="tonnage">Cold chamber Die Casting Machine  – Four </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
                                             <a class="lightbox-image" href="images/casting-machine-4.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-4.jpg" alt="" width="370" height="250"></a>
@@ -277,7 +277,7 @@
                                 
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span> 250 Tonnage Capacity.</li>
-                                    <li><span class="fa fa-check-square-o"></span>Make – Buhler</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – HMT</li>
                                     <li><span class="fa fa-check-square-o"></span> Norstat control systems.</li>
                                    
                                 </ul>                               
@@ -333,7 +333,7 @@
                                 <div class="col-md-6 col-sm-6 col-xs-6">
 								<h6>X-RAY Machine</h6>
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span>In house X-Ray machine will be planned on Oct-17</li>
+                                    <li><span class="fa fa-check-square-o"></span>In house X-Ray machine will be planned on Oct-18</li>
 								
                                 </ul>
 								</div>
@@ -417,7 +417,7 @@
                                <h3 class="tonnage">Makino Slim 3 - VMC</h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/casting-machine-10.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-10.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image" href="images/Makino-Slim-VMC.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino-Slim-VMC.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
