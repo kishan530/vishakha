@@ -109,8 +109,8 @@
                                 	<span class="flaticon-anchor"></span>
                                 </div>
                                 <h3>Quality Assurance</h3>
-                                <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality..</div>
-                                
+                             <!--   <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality..</div> -->
+                                   <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div>   
                             </div>
                         </div>
                         
@@ -253,7 +253,7 @@
 							  <div class="col-md-6 col-sm-6 col-xs-12">
                                 
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> 300 Tonnage Capacity.</li>
+                                    <li><span class="fa fa-check-square-o"></span> 350 Tonnage Capacity.</li>
                                     <li><span class="fa fa-check-square-o"></span>Make – Toyo</li>
                                     <li><span class="fa fa-check-square-o"></span> Computerized process contro.</li>
 									 <li><span class="fa fa-check-square-o"></span> Close loop control system.</li>
@@ -279,6 +279,26 @@
                                     <li><span class="fa fa-check-square-o"></span> 250 Tonnage Capacity.</li>
                                     <li><span class="fa fa-check-square-o"></span>Make – HMT</li>
                                     <li><span class="fa fa-check-square-o"></span> Norstat control systems.</li>
+                                   
+                                </ul>                               
+                               </div> 
+                            </div>
+                            </div>
+							<div class="col-md-6 col-sm-6 col-xs-12">
+							 <div class="box">
+                               <h3 class="tonnage">Cold chamber Die Casting Machine  – Five </h3>
+								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
+                                        <figure class="image">
+                                            <a class="lightbox-image" href="images/IMG_2304.JPG" title="Cold chamber Die Casting Machine"><img src="images/IMG_2304.JPG" alt="" width="370" height="250"></a>
+                                        </figure>
+                                    </div>
+									
+							<div class="col-md-6 col-sm-6 col-xs-12">
+                                
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span> 250 Tonnage Capacity.</li>
+                                    <li><span class="fa fa-check-square-o"></span>Make – Toyo </li>
+                                    <li><span class="fa fa-check-square-o"></span> Fully automatic system.</li>
                                    
                                 </ul>                               
                                </div> 
@@ -329,15 +349,6 @@
                                     <li><span class="fa fa-check-square-o"></span>Make – Mitutoyo</li>
                                     <li><span class="fa fa-check-square-o"></span>Size – X-500 , Y-700 & Z-400</li> 
                                 </ul>
-								</div>	
-                                <div class="col-md-6 col-sm-6 col-xs-6">
-								<h6>X-RAY Machine</h6>
-                                <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span>In house X-Ray machine will be planned on Oct-18</li>
-								
-                                </ul>
-								</div>
-								<div class="col-md-6 col-sm-6 col-xs-6">
 								<h6>UTM – One</h6>
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span>Royal Testing machine – 10T.</li>
@@ -348,6 +359,16 @@
 								</div>
                             </div>
                             </div>
+									
+                               <!-- <div class="col-md-6 col-sm-6 col-xs-6">
+								<h6>X-RAY Machine</h6>
+                                <ul class="list-style-one">
+                                    <li><span class="fa fa-check-square-o"></span>Replace In house X-Ray machine will be planned on Oct-17 with spectro analysis </li>
+								
+                                </ul>
+								</div> -->
+								<!--<div class="col-md-1 col-sm-6 col-xs-6"></div> -->
+								
 							<div class="col-md-6 col-sm-6 col-xs-12">
                             	<div class="box">
                                <h3 class="tonnage">Makino A61 nx- HMC </h3>
@@ -425,9 +446,9 @@
                                 
                                 <ul class="list-style-one">
 								    <li><span class="fa fa-check-square-o"></span>Make – Makino</li>
-                                    <li><span class="fa fa-check-square-o"></span> product Name-Slim 3</li>
+                                    <li><span class="fa fa-check-square-o"></span> Spindle (min 1)- Standard	15000</li>
+                                    <li><span class="fa fa-check-square-o"></span>product Name-Slim 3</li>
                                     <li><span class="fa fa-check-square-o"></span>Type-Vertical MC</li>
-                                    <li><span class="fa fa-check-square-o"></span> ATC Capacity-30</li>
                                    
                                 </ul>                               
                                 
@@ -492,7 +513,7 @@
                             <div class="icon-box"><span class="flaticon-package-cube-box-for-delivery"></span></div>
                             
                             <h3>Updated Standards</h3>
-                            <div class="text">The company keeps itself updated when it comes to machinery and has state of the art equipment which they use to provide the best quality to customers.</div>
+                           <div class="text">The company keeps itself updated when it comes to machinery and has state of the art equipment which they use to provide the best quality to customers.</div> 
                             
                         </div>
                     </div>
@@ -504,8 +525,8 @@
                             <div class="icon-box"><span class="flaticon-anchor"></span></div>
                             
                             <h3>Quality Assurance</h3>
-                            <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div>
-                            
+                         <!--   <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div> -->
+                            <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div>
                         </div>.
                     </div>
                 </div>
@@ -525,12 +546,15 @@
         	<div class="row">
     			<div class="sponsors-outer">
                 <!--Sponsors Carousel-->
-                <ul class="sponsors-carousel">
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/6.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></figure></li>
-                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></figure></li>
+                <ul class="sponsors-carousel text-center"style="margin-top:px">
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/79lmv-logo1.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/WABCO_highlight_logo_283x170px1.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/client51.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/GatesLogo1.jpg" alt=""></a></figure></li>
+                    <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/9337063.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/images1.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/Rane_Group_Logo1.jpg" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="image-box"><a href="#"><img src="images/clients/images-y1.jpg" alt=""></a></figure></li>
                 </ul>
             </div>
             </div>

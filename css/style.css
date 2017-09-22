@@ -85,6 +85,12 @@
 	 padding-bottom:15px;
 	 padding-top: 8px;
  }
+ @media (max-width:768px){	
+h3.tonnage  {
+       margin: -24px;
+	}
+}
+     
 .box {
 	
     height: 400px;
@@ -95,6 +101,11 @@
     margin: 2px;
 	 margin-top: 10px;
 	 margin-bottom: 10px;
+}
+@media (max-width:768px){	
+.box  {
+        border: none;
+	}
 }
 body {
 	font-family: 'Source Sans Pro', sans-serif;
@@ -684,6 +695,7 @@ img{
 	display:inline-block;
 	max-width:100%;	
 }
+ 
 
 /*** 
 

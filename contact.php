@@ -104,7 +104,7 @@
             <!-- Contact Form -->
             <div class="default-form contact-form">
                 
-                <form method="post" action="sendemail.php" id="contact-form">
+                <form method="post" action="contact-insert-mail.php" id="contact-form">
 					<div class="row clearfix">
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
                             <input type="text" name="username" value="" placeholder="Name *">
