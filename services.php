@@ -109,8 +109,8 @@
                                 	<span class="flaticon-anchor"></span>
                                 </div>
                                 <h3>Quality Assurance</h3>
-                             <!--   <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality..</div> -->
-                                   <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div>   
+                               <div class="text">Visakha Industries is an ISO/TS certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality..</div> 
+                                  <!--  <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div>  --> 
                             </div>
                         </div>
                         
@@ -209,9 +209,9 @@
 							<div class="col-md-6 col-sm-6 col-xs-12">
                                 
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> 1000 Tonnage Capacity.</li>
+                                   <li><span class="fa fa-check-square-o"></span> 1000 Tonnage Capacity.</li>
                                     <li><span class="fa fa-check-square-o"></span>Make – Polak</li>
-                                    <li><span class="fa fa-check-square-o"></span> Auto ladle will be planned by end of April’18.</li>
+                                   <!--  <li><span class="fa fa-check-square-o"></span> Auto ladle will be planned by end of April’18.</li> -->
                                    
                                 </ul>                               
                                 
@@ -289,22 +289,23 @@
                                <h3 class="tonnage">Cold chamber Die Casting Machine  – Five </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/IMG_2304.JPG" title="Cold chamber Die Casting Machine"><img src="images/IMG_2304.JPG" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image img-responsive" href="images/IMG_2304-1.jpg" title="Cold chamber Die Casting Machine"><img src="images/IMG_2304-1.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
 							<div class="col-md-6 col-sm-6 col-xs-12">
                                 
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span> 250 Tonnage Capacity.</li>
+                                    <li><span class="fa fa-check-square-o"></span> 350 Tonnage Capacity.</li>
                                     <li><span class="fa fa-check-square-o"></span>Make – Toyo </li>
+									<li><span class="fa fa-check-square-o"></span>Auto ladle and Auto extractor.</li>
                                     <li><span class="fa fa-check-square-o"></span> Fully automatic system.</li>
                                    
                                 </ul>                               
                                </div> 
                             </div>
                             </div>
-							 <div class="col-md-6 col-sm-6 col-xs-12">
+							<!-- <div class="col-md-6 col-sm-6 col-xs-12">
 							 <div class="box">
                                <h3 class="tonnage">Machine Shop</h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
@@ -328,17 +329,17 @@
                                 </ul>                               
                              </div>   
                             </div>   
-                            </div>
+                            </div> -->
 							 <div class="col-md-6 col-sm-6 col-xs-12">
 							    <div class="box">
                                <h3 class="tonnage">Inspection & Testing Facilities</h3>	
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/casting-machine-6.jpg" title="Inspection & Testing Facilities"><img src="images/casting-machine-6.jpg" alt=""></a>
+                                            <a class="lightbox-image img-responsive" href="images/casting-machine-6.121.jpg" title="Inspection & Testing Facilities"><img src="images/casting-machine-6.121.jpg" alt=""></a>
                                         </figure>
                                     </div>
 									
-							<div class="col-md-6 col-sm-6 col-xs-6">
+							<div class="col-md-6 col-sm-6 col-xs-12">
                                 <h6>Spectrum Analysis - One</h6>
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span>Make  - METAL POWER.</li>
@@ -374,7 +375,7 @@
                                <h3 class="tonnage">Makino A61 nx- HMC </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/casting-machine-7.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-7.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image img-responsive" href="images/casting-machine-7-12.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-7-12.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
@@ -395,7 +396,7 @@
                                <h3 class="tonnage">Makino A51 nx- HMC </h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/casting-machine-8.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-8.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image img-responsive" href="images/casting-machine-8-1.jpg" title="Cold chamber Die Casting Machine"><img src="images/casting-machine-8-1.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
@@ -438,7 +439,7 @@
                                <h3 class="tonnage">Makino Slim 3 - VMC</h3>
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image" href="images/Makino-Slim-VMC.jpg" title="Cold chamber Die Casting Machine"><img src="images/Makino-Slim-VMC.jpg" alt="" width="370" height="250"></a>
+                                            <a class="lightbox-image" href="images/2017-07-12-PHOTO-00016493.jpg" title="Cold chamber Die Casting Machine"><img src="images/2017-07-12-PHOTO-00016493.jpg" alt="" width="370" height="250"></a>
                                         </figure>
                                     </div>
 									
@@ -525,8 +526,8 @@
                             <div class="icon-box"><span class="flaticon-anchor"></span></div>
                             
                             <h3>Quality Assurance</h3>
-                         <!--   <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div> -->
-                            <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div>
+                            <div class="text">Visakha Industries is an ISO/TS certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div> 
+                           <!-- <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div> -->
                         </div>.
                     </div>
                 </div>

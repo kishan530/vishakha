@@ -231,8 +231,8 @@
                                 	<span class="flaticon-anchor"></span>
                                 </div>
                                 <h3>Quality Assurance</h3>
-                              <!--  <div class="text">Visakha Industries is an ISO certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div> -->
-                                <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div>
+                                <div class="text">Visakha Industries is an ISO/TS certified and Polaris approved company. The company also hold many other certifications which stands as proof for quality.</div> 
+                              <!--  <div class="text">Visakha Industries is an ISO certified change as Visakha Industries is an ISO/TS certified.</div> -->
                             </div>
                         </div>
                         
@@ -397,7 +397,7 @@
                         	<div class="outer-link">
                         		<a href="#" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Inspection & Testing Facilities</a>
                             </div>
-                        	<div class="text">Replace In house X-Ray machine will be planned on Oct-17 with spectro analysis . UTM – One. Royal Testing machine – 10T.</div>
+                        	<div class="text">Spectro Analysis. UTM – One. Royal Testing machine – 10T.</div>
                 		<!--	<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div> -->
                         </div>
                     </div>

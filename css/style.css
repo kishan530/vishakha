@@ -92,9 +92,8 @@ h3.tonnage  {
 }
      
 .box {
-	
     height: 400px;
-   width: 582px;
+  /* width: 582px;*/
    position: relative;
     border: 2px solid gray;
     padding: 6px;
@@ -105,6 +104,8 @@ h3.tonnage  {
 @media (max-width:768px){	
 .box  {
         border: none;
+		width:auto;
+		
 	}
 }
 body {
@@ -693,9 +694,14 @@ ul,li{
 
 img{
 	display:inline-block;
-	max-width:100%;	
+	width:100%;	
 }
- 
+@media (max-width:768px){
+img{
+	display:inline;
+	width:auto;	
+}	
+}
 
 /*** 
 

@@ -52,7 +52,7 @@
         	<div class="row clearfix">
             	<div class="column left-column col-md-6 col-sm-12 col-xs-12">
                 	<figure class="image">
-                        	<img src="images/resource/video-image-1.jpg" alt="" />
+                        	<img src="images/resource/video-image-1.jpg" class="img-responsive" alt="" />
                         </figure>
                 </div>
                 <div class="column col-md-6 col-sm-12 col-xs-12">
