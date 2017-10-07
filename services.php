@@ -335,7 +335,7 @@
                                <h3 class="tonnage">Inspection & Testing Facilities</h3>	
 								<div class="featured-image-box col-md-6 col-sm-6 col-xs-6">
                                         <figure class="image">
-                                            <a class="lightbox-image img-responsive" href="images/casting-machine-6.121.jpg" title="Inspection & Testing Facilities"><img src="images/casting-machine-6.121.jpg" alt=""></a>
+                                            <a class="lightbox-image img-responsive" href="images/casting-machine-6.121.jpg" title="Inspection & Testing Facilities"><img src="images/casting-machine-6.121.jpg" alt="" width="370" height="250px"></a>
                                         </figure>
                                     </div>
 									
@@ -352,7 +352,7 @@
                                 </ul>
 								<h6>UTM – One</h6>
                                 <ul class="list-style-one">
-                                    <li><span class="fa fa-check-square-o"></span>Royal Testing machine – 10T.</li>
+                                    <li><span class="fa fa-check-sque-o"></span>Royal Testing machine – 10T.</li>
 								<h6>Presetter - One</h6>
                                 <ul class="list-style-one">
                                     <li><span class="fa fa-check-square-o"></span>Zoller </li> 

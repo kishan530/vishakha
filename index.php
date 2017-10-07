@@ -335,7 +335,7 @@
                         </div>
                         <div class="lower-content">
                         	<div class="outer-link">
-                        		<a href="#" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Die Casting Machine - 5</a>
+                        		<a href="#" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Die Casting Machine  5</a>
                             </div>
                         	<div class="text">Fully automatic. Make - Toyo</div>
                 		<!--	<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div> -->
@@ -343,7 +343,7 @@
                     </div>
                 </div>
                 
-                <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
+            <!--    <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
                         	<figure class="image"><a href="#"><img src="images/casting-machine-5.jpg" alt="" width="370" height="250"></a></figure>
@@ -354,10 +354,10 @@
 </a>
                             </div>
                         	<div class="text">Stroke – X-730mm; Y-730mm, Z- 800mm. B – 360 Degrees.</div>
-                		<!--	<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div>   -->
+                		<!--	<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div> 
                         </div>
                     </div>
-                </div>
+                </div> -->
 				
 			 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
@@ -387,7 +387,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="service-block-two col-md-4 col-sm-6 col-xs-12">
                 	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
                     	<div class="image-box">
@@ -402,7 +401,20 @@
                         </div>
                     </div>
                 </div>
-				
+				<div class="service-block-two col-md-4 col-sm-6 col-xs-12">
+                	<div class="inner-box wow fadeIn" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    	<div class="image-box">
+                        	<figure class="image"><a href="#"><img src="images/casting-machine-8-1.jpg" alt="" width="370" height="250"></a></figure>
+                        </div>
+                        <div class="lower-content">
+                        	<div class="outer-link">
+                        		<a href="#" class="theme-btn service-title"><span class="flaticon-technology-2"></span>Makino A51 nx- HMC </a>
+                            </div>
+                        	<div class="text">Make – Makino.Spindle Speed – 10,000 RPM. ATC Capacity – 60 Mac.</div>
+                		<!--	<div class="link-box"><a href="services-details.html" class="theme-btn normal-link">VIEW MORE <span class="fa fa-long-arrow-right"></span></a></div> -->
+                        </div>
+                    </div>
+                </div>
 				
 			
                 
